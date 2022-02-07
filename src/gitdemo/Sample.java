@@ -6,6 +6,7 @@ public class Sample {
 		
 		
 		System.out.println("Updated on Git");
+		System.out.println("Pulled it on eclipse");
 	}
 
 }
